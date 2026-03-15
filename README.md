@@ -34,7 +34,7 @@ A fast, multithreaded TCP port scanner with colored terminal output — built fo
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/python-port-scanner.git](https://github.com/gujjar23/python-port-scanner)
+git clone https://github.com/gujjar23/python-port-scanner.git
 cd python-port-scanner
 
 # 2. (Optional) Create a virtual environment
